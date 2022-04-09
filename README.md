@@ -21,7 +21,7 @@ A reverse snake game where you're the food and you avoid the snake
 
 Prize: Most creative project - $20 gift card
 
-[Github Repo](https://github.com/benthecoder/ReverseSnakeGame)
+[Github](https://github.com/benthecoder/ReverseSnakeGame)
 
 ## [MongoDB Atlas Hackathon](https://dev.to/devteam/announcing-the-mongodb-atlas-hackathon-on-dev-4b6m)
 
@@ -31,7 +31,7 @@ A streamlit app that allows users to search through the comments in the "Never G
 
 Prize: A mug for participation
 
-[Github Repo](https://github.com/benthecoder/yt-comments-mongodb-search)
+[Github](https://github.com/benthecoder/yt-comments-mongodb-search)
 
 ## [HackSC 2022](https://www.hacksc.com/)
 
@@ -41,7 +41,7 @@ What we built:
 
 Prize: -
 
-[Devpost](https://devpost.com/software/recycleme-58fo3q) | [Github Repo](https://github.com/benthecoder/VoteMemes)
+[Devpost](https://devpost.com/software/recycleme-58fo3q) | [Github](https://github.com/benthecoder/VoteMemes)
 
 ## [Hacklahoma 2022](https://2022.hacklahoma.org/)
 
@@ -51,7 +51,7 @@ What we built:
 
 Prize: -
 
-[Devpost](https://devpost.com/software/voice-out) | [Github Repo](https://github.com/weichunnn/voice-out)
+[Devpost](https://devpost.com/software/voice-out) | [Github](https://github.com/weichunnn/voice-out)
 
 ## [Hacklytics 2022 by Data Sciecne @ GTech](https://hacklytics.io/)
 
@@ -61,7 +61,7 @@ What we built:
 
 Prize: Best Healthcare Hack powered by Anthem - $100 Amazon Gift Card
 
-[Devpost](https://devpost.com/software/tbd-pc9f4d) | [Github Repo](https://github.com/benthecoder/Ensurance)
+[Devpost](https://devpost.com/software/tbd-pc9f4d) | [Github](https://github.com/benthecoder/Ensurance)
 
 ## [HackIllinois 2022](https://www.hackillinois.org/)
 
@@ -71,7 +71,7 @@ What we built:
 
 Prize: -
 
-[Devpost](https://devpost.com/software/energytics) | [Github Repo](https://github.com/benthecoder/Energytics)
+[Devpost](https://devpost.com/software/energytics) | [Github](https://github.com/benthecoder/Energytics)
 
 ## [HackTech 2022](https://hacktech.app/)
 
@@ -81,7 +81,7 @@ What we built:
 
 Prize: Best use of Mage AI (3rd place) - $150 Amazon Gift Card
 
-[Devpost](https://devpost.com/software/savergy) | [Github Repo](https://github.com/benthecoder/savergy)
+[Devpost](https://devpost.com/software/savergy) | [Github](https://github.com/benthecoder/savergy)
 
 ## [HooHacks 2022](https://www.hoohacks.io/)
 
@@ -91,7 +91,7 @@ What we built:
 
 Prize: Best Data Science Hack (2nd place) - Echo Dot and Sengled Color Bulb
 
-[Devpost](https://devpost.com/software/toilet-buddy) | [Github Repo](https://github.com/cinnyb2/Toliet-Buddy)
+[Devpost](https://devpost.com/software/toilet-buddy) | [Github](https://github.com/cinnyb2/Toliet-Buddy)
 
 ## [HackPrinceton 2022](https://www.hackprinceton.com/)
 
@@ -101,4 +101,4 @@ What we built:
 
 Prize: 3rd place overall - Tile Bluetooth Tracker Essentials
 
-[Devpost](https://devpost.com/software/searchly-9pn6go) | [Github Repo](https://github.com/weichunnn/reader)
+[Devpost](https://devpost.com/software/searchly-9pn6go) | [Github](https://github.com/weichunnn/reader)
