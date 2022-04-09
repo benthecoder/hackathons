@@ -7,7 +7,7 @@ Documenting my hackathon projects (and wins)
   - [MongoDB Atlas Hackathon](#mongodb-atlas-hackathon)
   - [HackSC 2022](#hacksc-2022)
   - [Hacklahoma 2022](#hacklahoma-2022)
-  - [Hacklytics 2022 by Data Sciecne @ GTech](#hacklytics-2022-by-data-sciecne--gtech)
+  - [Hacklytics 2022 by Data Science @ GTech](#hacklytics-2022-by-data-science--gtech)
   - [HackIllinois 2022](#hackillinois-2022)
   - [HackTech 2022](#hacktech-2022)
   - [HooHacks 2022](#hoohacks-2022)
@@ -39,7 +39,7 @@ What we built:
 
 [VoteMemes](https://vote-memes.vercel.app/) - A plain React app to vote for the better meme from r/ProgrammerHumor
 
-Prize: -
+Prize: ––
 
 [Devpost](https://devpost.com/software/recycleme-58fo3q) | [Github](https://github.com/benthecoder/VoteMemes)
 
@@ -49,11 +49,11 @@ What we built:
 
 [VoiceOut](https://voiceout.space/) - A React + Next.js app that allows users to submit reviews on government agencies
 
-Prize: -
+Prize: ––
 
 [Devpost](https://devpost.com/software/voice-out) | [Github](https://github.com/weichunnn/voice-out)
 
-## [Hacklytics 2022 by Data Sciecne @ GTech](https://hacklytics.io/)
+## [Hacklytics 2022 by Data Science @ GTech](https://hacklytics.io/)
 
 What we built:
 
@@ -67,9 +67,9 @@ Prize: Best Healthcare Hack powered by Anthem - $100 Amazon Gift Card
 
 What we built:
 
-[Energytics](https://share.streamlit.io/benthecoder/energytics/main/app.py) - An app that visualizes and predicts energy generation and consumption for companies and consumers.
+[Energytics](https://share.streamlit.io/benthecoder/energytics/main/app.py) - A streamlit app that visualizes and predicts energy generation and consumption for companies and consumers.
 
-Prize: -
+Prize: ––
 
 [Devpost](https://devpost.com/software/energytics) | [Github](https://github.com/benthecoder/Energytics)
 
@@ -77,7 +77,7 @@ Prize: -
 
 What we built:
 
-[Savergy](https://share.streamlit.io/benthecoder/savergy/main/app.py) - An app to help predict energy cost and usage of a building, provide notifications to users to help save energy usage, and to educate the community about how electricity use relates to CO2 emissions.
+[Savergy](https://share.streamlit.io/benthecoder/savergy/main/app.py) - A streamlit app to help predict energy cost and usage of a building, provide notifications to users to help save energy usage, and to educate the community about how electricity use relates to CO2 emissions.
 
 Prize: Best use of Mage AI (3rd place) - $150 Amazon Gift Card
 
@@ -87,7 +87,7 @@ Prize: Best use of Mage AI (3rd place) - $150 Amazon Gift Card
 
 What we built:
 
-[Toilet Buddy](https://public-washroom-f51ff.web.app/) - An app that help users find the closest restroom in big cities
+[Toilet Buddy](https://public-washroom-f51ff.web.app/) - A plain JS + HTML + CSS website that help users find the closest restroom in big cities
 
 Prize: Best Data Science Hack (2nd place) - Echo Dot and Sengled Color Bulb
 
