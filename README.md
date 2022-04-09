@@ -19,9 +19,7 @@ What we built:
 
 A reverse snake game where you're the food and you avoid the snake
 
-Prize
-
-Most creative project - $20 gift card
+Prize: Most creative project - $20 gift card
 
 [Github Repo](https://github.com/benthecoder/ReverseSnakeGame)
 
