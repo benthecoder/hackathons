@@ -49,7 +49,7 @@ What we built:
 
 [VoiceOut](https://voiceout.space/) - A React + Next.js app that allows users to submit reviews on government agencies
 
-Prizes: -
+Prize: -
 
 [Devpost](https://devpost.com/software/voice-out) | [Github Repo](https://github.com/weichunnn/voice-out)
 
@@ -59,7 +59,7 @@ What we built:
 
 [Ensurance](https://share.streamlit.io/benthecoder/hacklytics2022/main/app.py) - A streamlit app that allows anyone to view insights into their health risks based on their age, gender, and location
 
-Prizes: Best Healthcare Hack powered by Anthem - $100 Amazon Gift Card
+Prize: Best Healthcare Hack powered by Anthem - $100 Amazon Gift Card
 
 [Devpost](https://devpost.com/software/tbd-pc9f4d) | [Github Repo](https://github.com/benthecoder/Ensurance)
 
@@ -69,7 +69,7 @@ What we built:
 
 [Energytics](https://share.streamlit.io/benthecoder/energytics/main/app.py) - An app that visualizes and predicts energy generation and consumption for companies and consumers.
 
-Prizes: -
+Prize: -
 
 [Devpost](https://devpost.com/software/energytics) | [Github Repo](https://github.com/benthecoder/Energytics)
 
@@ -79,7 +79,7 @@ What we built:
 
 [Savergy](https://share.streamlit.io/benthecoder/savergy/main/app.py) - An app to help predict energy cost and usage of a building, provide notifications to users to help save energy usage, and to educate the community about how electricity use relates to CO2 emissions.
 
-Prizes: Best use of Mage AI (3rd place) - $150 Amazon Gift Card
+Prize: Best use of Mage AI (3rd place) - $150 Amazon Gift Card
 
 [Devpost](https://devpost.com/software/savergy) | [Github Repo](https://github.com/benthecoder/savergy)
 
@@ -89,7 +89,7 @@ What we built:
 
 [Toilet Buddy](https://public-washroom-f51ff.web.app/) - An app that help users find the closest restroom in big cities
 
-Prizes: Best Data Science Hack (2nd place) - Echo Dot and Sengled Color Bulb
+Prize: Best Data Science Hack (2nd place) - Echo Dot and Sengled Color Bulb
 
 [Devpost](https://devpost.com/software/toilet-buddy) | [Github Repo](https://github.com/cinnyb2/Toliet-Buddy)
 
@@ -99,6 +99,6 @@ What we built:
 
 [Readabl](https://readto.beabetterhuman.tech/) - A Svelte + FastAPI app that offers search results along with readability metrics so that users can at a glance see what search results are suitable for them to read.
 
-Prizes: 3rd place overall - Tile Bluetooth Tracker Essentials
+Prize: 3rd place overall - Tile Bluetooth Tracker Essentials
 
 [Devpost](https://devpost.com/software/searchly-9pn6go) | [Github Repo](https://github.com/weichunnn/reader)
