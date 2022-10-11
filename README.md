@@ -13,6 +13,7 @@ Documenting my hackathon projects (and wins)
   - [HooHacks 2022](#hoohacks-2022)
   - [HackPrinceton 2022](#hackprinceton-2022)
   - [DragonHacks 2022](#dragonhacks-2022)
+  - [TAMU Datathon 2022](#tamu-datathon-2022)
 
 ## [ISU Fall 2021 Hackathon](https://tinyurl.com/ycfu6f8o)
 
@@ -22,7 +23,7 @@ Ekans - A reverse snake game where you're the food and you avoid the snake
 
 Prize: Most creative project - $20 gift card
 
-[Github](https://github.com/benthecoder/ReverseSnakeGame)
+[GitHub](https://github.com/benthecoder/ReverseSnakeGame)
 
 ## [MongoDB Atlas Hackathon](https://dev.to/devteam/announcing-the-mongodb-atlas-hackathon-on-dev-4b6m)
 
@@ -32,7 +33,7 @@ A streamlit app that allows users to search through the comments in the "Never G
 
 Prize: A mug for participation
 
-[Github](https://github.com/benthecoder/yt-comments-mongodb-search)
+[GitHub](https://github.com/benthecoder/yt-comments-mongodb-search)
 
 ## [HackSC 2022](https://www.hacksc.com/)
 
@@ -42,7 +43,7 @@ Prize: A mug for participation
 
 Prize: ––
 
-[Devpost](https://devpost.com/software/recycleme-58fo3q) | [Github](https://github.com/benthecoder/VoteMemes)
+[Devpost](https://devpost.com/software/recycleme-58fo3q) | [GitHub](https://github.com/benthecoder/VoteMemes)
 
 ## [Hacklahoma 2022](https://2022.hacklahoma.org/)
 
@@ -52,7 +53,7 @@ Prize: ––
 
 Prize: ––
 
-[Devpost](https://devpost.com/software/voice-out) | [Github](https://github.com/weichunnn/voice-out)
+[Devpost](https://devpost.com/software/voice-out) | [GitHub](https://github.com/weichunnn/voice-out)
 
 ## [Hacklytics 2022 by Data Science @ GTech](https://hacklytics.io/)
 
@@ -62,7 +63,7 @@ Prize: ––
 
 Prize: Best Healthcare Hack powered by Anthem - $100 Amazon Gift Card
 
-[Devpost](https://devpost.com/software/tbd-pc9f4d) | [Github](https://github.com/benthecoder/Ensurance)
+[Devpost](https://devpost.com/software/tbd-pc9f4d) | [GitHub](https://github.com/benthecoder/Ensurance)
 
 ## [HackIllinois 2022](https://www.hackillinois.org/)
 
@@ -72,7 +73,7 @@ Prize: Best Healthcare Hack powered by Anthem - $100 Amazon Gift Card
 
 Prize: ––
 
-[Devpost](https://devpost.com/software/energytics) | [Github](https://github.com/benthecoder/Energytics)
+[Devpost](https://devpost.com/software/energytics) | [GitHub](https://github.com/benthecoder/Energytics)
 
 ## [HackTech 2022](https://hacktech.app/)
 
@@ -82,7 +83,7 @@ Prize: ––
 
 Prize: Best use of Mage AI (3rd place) - $150 Amazon Gift Card
 
-[Devpost](https://devpost.com/software/savergy) | [Github](https://github.com/benthecoder/savergy)
+[Devpost](https://devpost.com/software/savergy) | [GitHub](https://github.com/benthecoder/savergy)
 
 ## [HooHacks 2022](https://www.hoohacks.io/)
 
@@ -92,7 +93,7 @@ Prize: Best use of Mage AI (3rd place) - $150 Amazon Gift Card
 
 Prize: Best Data Science Hack (2nd place) - Echo Dot and Sengled Color Bulb
 
-[Devpost](https://devpost.com/software/toilet-buddy) | [Github](https://github.com/cinnyb2/Toliet-Buddy)
+[Devpost](https://devpost.com/software/toilet-buddy) | [GitHub](https://github.com/cinnyb2/Toliet-Buddy)
 
 ## [HackPrinceton 2022](https://www.hackprinceton.com/)
 
@@ -102,7 +103,7 @@ Prize: Best Data Science Hack (2nd place) - Echo Dot and Sengled Color Bulb
 
 Prize: 3rd place overall - Tile Bluetooth Tracker Essentials
 
-[Devpost](https://devpost.com/software/searchly-9pn6go) | [Github](https://github.com/weichunnn/reader)
+[Devpost](https://devpost.com/software/searchly-9pn6go) | [GitHub](https://github.com/weichunnn/reader)
 
 ## [DragonHacks 2022](https://dragonhacks.live/)
 
@@ -112,4 +113,14 @@ Prize: 3rd place overall - Tile Bluetooth Tracker Essentials
 
 Prize: 3rd place overall, Most Creative Domain Name
 
-[Devpost](https://devpost.com/software/foodprint-fun) | [Github](https://github.com/benthecoder/foodprint)
+[Devpost](https://devpost.com/software/foodprint-fun) | [GitHub](https://github.com/benthecoder/foodprint)
+
+## [TAMU Datathon 2022](https://tamudatathon.com/)
+
+![gas_turbine](media/gas_turbine.png)
+
+[Gas Turbine Viz](https://benthecoder-gas-turbine-viz-main-page-awsw6p.streamlitapp.com/) - A streamlit app that visualizes the performance of a gas turbine that uses CockroachDB and Twilio
+
+Prize: ––
+
+[Devpost](https://devpost.com/software/tbd-y5nl8h) | [GitHub](https://github.com/benthecoder/gas_turbine_viz)
