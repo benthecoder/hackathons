@@ -14,6 +14,7 @@ Documenting my hackathon projects (and wins)
   - [HackPrinceton 2022](#hackprinceton-2022)
   - [DragonHacks 2022](#dragonhacks-2022)
   - [TAMU Datathon 2022](#tamu-datathon-2022)
+  - [HackWashU 2022](#hackwashu-2022)
 
 ## [ISU Fall 2021 Hackathon](https://tinyurl.com/ycfu6f8o)
 
@@ -111,7 +112,7 @@ Prize: 3rd place overall - Tile Bluetooth Tracker Essentials
 
 [Foodprint](https://eatyourwayoutofclimatechange.tech/) - A React + Chakra UI + FastAPI app that displays the environmental impacts of foods based on recipes
 
-Prize: 3rd place overall, Most Creative Domain Name
+Prize: 3rd place overall (Seagate Portable 2 TB), Most Creative Domain Name (wireless charger)
 
 [Devpost](https://devpost.com/software/foodprint-fun) | [GitHub](https://github.com/benthecoder/foodprint)
 
@@ -124,3 +125,13 @@ Prize: 3rd place overall, Most Creative Domain Name
 Prize: ––
 
 [Devpost](https://devpost.com/software/tbd-y5nl8h) | [GitHub](https://github.com/benthecoder/gas_turbine_viz)
+
+## [HackWashU 2022](https://hackwashu.com/)
+
+![treefinance](media/treefinance.png)
+
+TreeFinance measures the sustainability impact you can make by donating your change to the [Priceless Planet Coalition](https://www.mastercard.us/en-us/vision/corp-responsibility/priceless-planet.html) by tracking your transactions with Plaid. The app uses the Impact Metric Calculator service which lets you know the the number of trees to be planted by the donated amount along with the carbon sequestered over a 5-year period.
+
+Prize: Best use of MasterCard API ($100 Gift Card)
+
+[Devpost](https://devpost.com/software/treefinance) | [GitHub](https://github.com/benthecoder/TreeFinance)
