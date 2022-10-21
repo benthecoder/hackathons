@@ -132,6 +132,6 @@ Prize: ––
 
 TreeFinance measures the sustainability impact you can make by donating your change to the [Priceless Planet Coalition](https://www.mastercard.us/en-us/vision/corp-responsibility/priceless-planet.html) by tracking your transactions with Plaid. The app uses the Impact Metric Calculator service which lets you know the the number of trees to be planted by the donated amount along with the carbon sequestered over a 5-year period.
 
-Prize: Best use of MasterCard API ($100 Gift Card)
+Prize: Best use of MasterCard API ($100 Gift Card), Best Social Good for Girls Hoo Hack 2022 (Mini instant photo printer)
 
 [Devpost](https://devpost.com/software/treefinance) | [GitHub](https://github.com/benthecoder/TreeFinance)
