@@ -15,6 +15,8 @@ Documenting my hackathon projects (and wins)
   - [DragonHacks 2022](#dragonhacks-2022)
   - [TAMU Datathon 2022](#tamu-datathon-2022)
   - [HackWashU 2022](#hackwashu-2022)
+  - [MakeUC 2022](#makeuc-2022)
+  - [Natural Language Hackathon](#natural-language-hackathon)
 
 ## [ISU Fall 2021 Hackathon](https://tinyurl.com/ycfu6f8o)
 
@@ -135,3 +137,23 @@ TreeFinance measures the sustainability impact you can make by donating your cha
 Prize: Best use of MasterCard API ($100 Gift Card), Best Social Good for Girls Hoo Hack 2022 (Mini instant photo printer)
 
 [Devpost](https://devpost.com/software/treefinance) | [GitHub](https://github.com/benthecoder/TreeFinance)
+
+## [MakeUC 2022](https://makeuc.io/)
+
+![connectify](media/connectify.png)
+
+Connectify takes your Spotify playlist and suggests people you can connect and chat with who share similar music tastes.
+
+Prize: --
+
+[Devpost](https://devpost.com/software/connectify-edh4rg) | [GitHub](https://github.com/weichunnn/connectify)
+
+## [Natural Language Hackathon](https://expertai-nlapi-092022.devpost.com/)
+
+![notion](media/notion.png)
+
+NotionNLP takes your journal entries in Notion and enriches it with information about sentiment analysis, main topics, and emotional traits.
+
+Prize: --
+
+[Devpost](https://devpost.com/software/notionnlp) | [GitHub](https://github.com/benthecoder/notion_nlp)
