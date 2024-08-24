@@ -17,6 +17,10 @@ Documenting my hackathon projects (and wins)
   - [HackWashU 2022](#hackwashu-2022)
   - [MakeUC 2022](#makeuc-2022)
   - [Natural Language Hackathon](#natural-language-hackathon)
+  - [Pansophy](#pansophy)
+  - [SignSage](#signsage)
+  - [Immigrant first](#immigrant-first)
+  - [Cuepal](#cuepal)
 
 ## [ISU Fall 2021 Hackathon](https://tinyurl.com/ycfu6f8o)
 
@@ -157,3 +161,41 @@ NotionNLP takes your journal entries in Notion and enriches it with information 
 Prize: --
 
 [Devpost](https://devpost.com/software/notionnlp) | [GitHub](https://github.com/benthecoder/notion_nlp)
+
+## Pansophy
+
+![pansophy](media/pansophy.jepg)
+
+Pansophy takes a topic input from users and then leverages advanced AI models to craft detailed and interactive knowledge graphs. These graphs visually represent core concepts, their interrelationships, and in-depth details, enabling users to quickly understand and dive deep into any subject matter.
+
+Prize: --
+
+[Devpost](https://devpost.com/software/pansophy) | [Github](https://github.com/benthecoder/pansophy)
+
+## SignSage
+
+![signsage](media/signsage.jpeg)
+
+Your personal contract AI assistant. Built for the Dropbox Sign AI-Powered Agreements Hackathon
+
+Prize: --
+
+[Devpost](https://devpost.com/software/signsage) | [Github](https://github.com/benthecoder/SignSage) | [Demo](https://www.youtube.com/watch?v=OhhQt_rz5Qw)
+
+## Immigrant first
+
+![immigrant](media/immigrant.jpeg)
+
+Immigrant First is built by immigrants who faced challenges navigating the complexity and challenges of the immigration process. It's driven by a desire to use safe Generative AI to streamline immigration petition generation for immigrants.
+
+[Devpost](https://devpost.com/software/immigrant-first-ml95ei)
+
+## Cuepal
+
+![cuepal](media/cuepal.png)
+
+AI-powered note taking and flashcards
+
+Prize: Best Graduate Student App
+
+[Devpost](https://devpost.com/software/cuepal) | [Github](https://github.com/opebus/cuepal.ai) | [Website](https://cuepal-ai.vercel.app/)
